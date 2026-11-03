@@ -148,3 +148,4 @@ python run_offloading_demo.py
 ## 📜 Research Reference
 
 For detailed mathematical formulations of RAG (Lewis et al.), cosine similarity vector spaces, HNSW approximate nearest neighbors, and RAGAS evaluation metrics, refer to [`RAG_Pipeline_Masterclass_Notes.md`](RAG_Pipeline_Masterclass_Notes.md).
+
